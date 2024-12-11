@@ -13,5 +13,5 @@
 
 ### ScreenShots
 <div align="center">
-  <img width="300" src="https://raw.githubusercontent.com/Jakub-G-Education/DS3103-Web-Development-API/refs/heads/main/ScreenShots/Skjermbilde%202024-12-11%20141525.png" />
+  <img width="600" src="https://raw.githubusercontent.com/Jakub-G-Education/DS3103-Web-Development-API/refs/heads/main/ScreenShots/Skjermbilde%202024-12-11%20141525.png" />
 </div>
