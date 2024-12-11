@@ -1,4 +1,6 @@
 # DS3103, Web-Development-API
+## Grade: A
+
 [📜 Exam Assignment 📜](Exam-DS3103-Webutvikling-H2023.pdf)
 
 ### To run [DS3103, Web-Development](https://github.com/Jakub-G-Education/DS3103-Web-Development) you need to run this API first.
